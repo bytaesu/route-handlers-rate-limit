@@ -2,7 +2,8 @@
 
 This example uses `lru-cache` to implement a simple rate limiter for `Next.js Route Handlers`, referencing the [Vercel example](https://github.com/vercel/next.js/tree/canary/examples/api-routes-rate-limit).
 
-**Live demo:** [route-handlers-rate-limit](https://route-handlers-rate-limit.onrender.com)
+**Live demo:** [route-handlers-rate-limit](https://route-handlers-rate-limit.onrender.com)  
+Since it’s a free instance, the cold start takes a really long time 🙏
 
 ### Dependencies
 - Next 15
